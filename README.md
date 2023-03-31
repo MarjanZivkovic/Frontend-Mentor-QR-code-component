@@ -7,7 +7,7 @@ My first ever Frontend Mentor challenge!
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://)
+- Live Site URL:  https://marjanzivkovic.github.io/Frontend-Mentor-QR-code-component/
 
 ### Built with
 
@@ -25,5 +25,5 @@ My first ever Frontend Mentor challenge!
 
 ## Author
 
-website: https://marjan-zivkovic.com/ 
+website: https://marjan-zivkovic.com/gi 
 github: https://github.com/MarjanZivkovic
