@@ -47,6 +47,7 @@ img{
 }
 .attribution { 
     position: absolute;
+    width: 100%;
     bottom: 2rem;
     font-size: 0.8rem;  
 }
